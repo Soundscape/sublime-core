@@ -1,0 +1,1 @@
+(function(){var t;t=require("../"),describe("CoreObject test suite",function(){var e;return e=function(){return new t.CoreObject},it("should construct an instance",function(){var t;return t=e(),expect(t).not.toBeNull()})})}).call(this);
