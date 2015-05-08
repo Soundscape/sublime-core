@@ -2,7 +2,7 @@
   "name": "sublime-core",
   "version": "0.0.20",
   "description": "Core object types",
-  "main": "./out/index.js",
+  "main": "./out/index",
   "scripts": {
     "test": "gulp test"
   },
