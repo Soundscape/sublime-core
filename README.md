@@ -1,2 +1,2 @@
 # sublime-core
-Core object types
+Provides isomorphic classes for observables and finite state machines.
