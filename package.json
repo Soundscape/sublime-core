@@ -1,6 +1,6 @@
 {
   "name": "sublime-core",
-  "version": "0.0.22",
+  "version": "0.0.24",
   "description": "Core object types",
   "main": "./out/index",
   "scripts": {
