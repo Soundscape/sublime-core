@@ -1,6 +1,6 @@
 {
   "name": "sublime-core",
-  "version": "0.0.24",
+  "version": "0.0.29",
   "description": "Core object types",
   "main": "./out/index",
   "scripts": {
@@ -40,6 +40,7 @@
     "portable-uuid": "^0.1.0",
     "property.js": "0.0.2",
     "stately.js": "^1.2.0",
+    "sublime-error": "0.0.47",
     "when": "^3.7.3"
   }
 }
